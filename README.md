@@ -34,12 +34,13 @@ Siga os passos abaixo no seu terminal para rodar o projeto localmente em sua má
 
 1. Clonar o repositório:
    git clone https://github.com/Os-Batutinhas-de-C-C/Sistema-Gran-Sabor.git
-   cd Sistema-Gran-Sabor
-2. Instalar as dependências do projeto:
+2. cd Sistema-Gran-Sabor
+   cd frontend
+3. Instalar as dependências do projeto:
    npm install
-3. Iniciar o servidor de desenvolvimento:
+4. Iniciar o servidor de desenvolvimento:
    npm run dev
-4. Acessar a aplicação:
+5. Acessar a aplicação:
    Após o comando finalizar, abra o seu navegador e acesse http://localhost:3000
 
 > 💡 Dicas para a equipe:
